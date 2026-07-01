@@ -1,0 +1,6 @@
+bom dia o sol ja nasceu la na fazendinha
+git init
+git status
+git add .
+git commit -m "criaçao"
+git push
